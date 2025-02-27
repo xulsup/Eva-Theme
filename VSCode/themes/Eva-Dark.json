@@ -5094,7 +5094,7 @@
             "scope": "markup.italic",
             "settings": {
                 "foreground": "#C57BDB",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -7542,7 +7542,7 @@
             "scope": "comment",
             "settings": {
                 "foreground": "#676E95",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -7550,7 +7550,7 @@
             "scope": "comment markup.link",
             "settings": {
                 "foreground": "#676E95",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -7558,7 +7558,7 @@
             "scope": "markup.quote.markdown",
             "settings": {
                 "foreground": "#676E95",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -7566,7 +7566,7 @@
             "scope": "meta.preprocessor.glsl",
             "settings": {
                 "foreground": "#676E95",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {

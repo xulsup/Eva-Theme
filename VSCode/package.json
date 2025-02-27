@@ -45,16 +45,6 @@
                 "path": "./themes/Eva-Dark-Bold.json"
             },
             {
-                "label": "Eva Dark Italic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Eva-Dark-Italic.json"
-            },
-            {
-                "label": "Eva Dark Italic Bold",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Eva-Dark-Italic-Bold.json"
-            },
-            {
                 "label": "Eva Light",
                 "uiTheme": "vs",
                 "path": "./themes/Eva-Light.json"
@@ -63,16 +53,6 @@
                 "label": "Eva Light Bold",
                 "uiTheme": "vs",
                 "path": "./themes/Eva-Light-Bold.json"
-            },
-            {
-                "label": "Eva Light Italic",
-                "uiTheme": "vs",
-                "path": "./themes/Eva-Light-Italic.json"
-            },
-            {
-                "label": "Eva Light Italic Bold",
-                "uiTheme": "vs",
-                "path": "./themes/Eva-Light-Italic-Bold.json"
             }
         ]
     },
